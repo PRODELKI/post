@@ -26,3 +26,23 @@
 | [copy-editing](.agents/skills/copy-editing/SKILL.md) | Редактура готового текста | [Исходник](https://github.com/coreyhaines31/marketingskills/blob/main/skills/copy-editing/SKILL.md) |
 
 Лицензии и уведомления об авторских правах сохранены в [licenses](licenses). У некоторых скиллов для дополнительных функций нужны внешние интеграции. Условия указаны в их `SKILL.md`.
+
+
+## Новые SMM-скиллы: Threads, привлечение и продажи (2026-11-15)
+
+Добавлены 12 навыков из [social-media-skills/skills](https://github.com/social-media-skills/skills), каждый с оригинальным `SKILL.md` и вложенными `references/`.
+
+- [audience-research](.agents/skills/audience-research/SKILL.md) — [оригинал](https://github.com/social-media-skills/skills/blob/main/skills/audience-research/SKILL.md)
+- [threads-growth](.agents/skills/threads-growth/SKILL.md) — [оригинал](https://github.com/social-media-skills/skills/blob/main/skills/threads-growth/SKILL.md)
+- [threads-post](.agents/skills/threads-post/SKILL.md) — [оригинал](https://github.com/social-media-skills/skills/blob/main/skills/threads-post/SKILL.md)
+- [reply-and-comment-writer](.agents/skills/reply-and-comment-writer/SKILL.md) — [оригинал](https://github.com/social-media-skills/skills/blob/main/skills/reply-and-comment-writer/SKILL.md)
+- [lead-magnets-and-funnels](.agents/skills/lead-magnets-and-funnels/SKILL.md) — [оригинал](https://github.com/social-media-skills/skills/blob/main/skills/lead-magnets-and-funnels/SKILL.md)
+- [social-selling-and-dm](.agents/skills/social-selling-and-dm/SKILL.md) — [оригинал](https://github.com/social-media-skills/skills/blob/main/skills/social-selling-and-dm/SKILL.md)
+- [viral-reverse-engineering](.agents/skills/viral-reverse-engineering/SKILL.md) — [оригинал](https://github.com/social-media-skills/skills/blob/main/skills/viral-reverse-engineering/SKILL.md)
+- [idea-generation-and-ideation](.agents/skills/idea-generation-and-ideation/SKILL.md) — [оригинал](https://github.com/social-media-skills/skills/blob/main/skills/idea-generation-and-ideation/SKILL.md)
+- [competitor-analysis](.agents/skills/competitor-analysis/SKILL.md) — [оригинал](https://github.com/social-media-skills/skills/blob/main/skills/competitor-analysis/SKILL.md)
+- [campaign-and-launch-planning](.agents/skills/campaign-and-launch-planning/SKILL.md) — [оригинал](https://github.com/social-media-skills/skills/blob/main/skills/campaign-and-launch-planning/SKILL.md)
+- [experimentation-and-ab-testing](.agents/skills/experimentation-and-ab-testing/SKILL.md) — [оригинал](https://github.com/social-media-skills/skills/blob/main/skills/experimentation-and-ab-testing/SKILL.md)
+- [seasonal-and-moment-marketing](.agents/skills/seasonal-and-moment-marketing/SKILL.md) — [оригинал](https://github.com/social-media-skills/skills/blob/main/skills/seasonal-and-moment-marketing/SKILL.md)
+
+Исходная лицензия: [MIT, Frank Heijdenrijk (2026)](licenses/social-media-skills-MIT.txt). Использование навыков не даёт автоматически доступ к WoopSocial, Meta API, комментариям, личным сообщениям или аналитике; проверяйте упомянутые в методиках метрики и ограничения на текущую дату.
