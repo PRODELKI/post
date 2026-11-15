@@ -46,3 +46,13 @@
 - [seasonal-and-moment-marketing](.agents/skills/seasonal-and-moment-marketing/SKILL.md) — [оригинал](https://github.com/social-media-skills/skills/blob/main/skills/seasonal-and-moment-marketing/SKILL.md)
 
 Исходная лицензия: [MIT, Frank Heijdenrijk (2026)](licenses/social-media-skills-MIT.txt). Использование навыков не даёт автоматически доступ к WoopSocial, Meta API, комментариям, личным сообщениям или аналитике; проверяйте упомянутые в методиках метрики и ограничения на текущую дату.
+
+
+## Редакционная система PRODELKI — обновление 15.11.2026
+
+- [Полный мастер-регламент](PRODELKI_MASTER_EDITORIAL_RULES.md) — оригинал из Drive (все пункты 1–17 сохранены дословно) плюс дополнение №18 о голосе, YouTube, MAX и рекомендациях площадок для каждой темы.
+- [Фирменный редакционный скилл](.agents/skills/prodelki-editorial-voice/SKILL.md) — «умный сарказм, местами безжалостно», проверка пользы и маршрутизация без обязательного CTA.
+- Новые методики: [brand-profile](.agents/skills/brand-profile/SKILL.md), [content-pillars](.agents/skills/content-pillars/SKILL.md), [engagement-routine](.agents/skills/engagement-routine/SKILL.md), [community-management](.agents/skills/community-management/SKILL.md); все с зависимыми `references`.
+- Telegram редакции: https://t.me/prodelkinews .
+
+Важно: Markdown в GitHub — обновлённая **копия**. Оригинальный файл с тем же именем в Google Drive отдельно и не считается автоматически синхронизированным.
