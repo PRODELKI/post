@@ -56,3 +56,14 @@
 - Telegram редакции: https://t.me/prodelkinews .
 
 Важно: Markdown в GitHub — обновлённая **копия**. Оригинальный файл с тем же именем в Google Drive отдельно и не считается автоматически синхронизированным.
+
+
+## Новая сценарная библиотека PRODELKI
+
+Для короткометражных мультфильмов, эмоциональных Reels, Shorts и постановки операторских сцен подключена отдельная библиотека навыков в [PRODELKI/skills](https://github.com/PRODELKI/skills):
+
+- [Собственный скилл prodelki-emotional-story-director](https://github.com/PRODELKI/skills/blob/main/.agents/skills/prodelki-emotional-story-director/SKILL.md) — от идеи до утверждённой истории, с quality gate до генерации.
+- [PRODELKI_STORY_AND_REELS_EDITORIAL.md](https://github.com/PRODELKI/skills/blob/main/PRODELKI_STORY_AND_REELS_EDITORIAL.md) — самостоятельный регламент эмоциональных историй, camera direction и короткого видео.
+- [Полный каталог шестнадцати творческих скиллов](https://github.com/PRODELKI/skills/blob/main/README.md) — сценаристика, режиссура, сторителлинг, Reels, все 9 модулей Hook Master.
+
+Старые редакционные правила и порядок работы не заменены. **До утверждения сценария не генерировать кадры и не расходовать кредиты ради одной красивой картинки.**
